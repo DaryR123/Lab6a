@@ -1,8 +1,8 @@
 using System;
-
+using System.Linq;
 class MainClass {
   public static void Main (string[] args) {
-    Console.WriteLine ("Using System.Linq");
+  
 
 double[] a=new double [7];
 double[] b=new double[7];
